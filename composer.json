@@ -1,0 +1,25 @@
+{
+    "name": "oes-data/queues",
+    "description": "A simple queue system for CodeIgniter 4",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "OesData\\Queues\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oscar Scudder",
+            "email": "oscarcpr@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "codeigniter4/devkit": "*",
+        "phpunit/phpunit": "^9.0"
+    },
+
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

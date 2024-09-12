@@ -1,6 +1,6 @@
 {
-    "name": "oes-data/queues",
-    "description": "A simple queue system for CodeIgniter 4",
+ "name": "oes-data/queues",
+    "description": "This will be a simple queue system for CodeIgniter 4. It will be able to handle multiple queues and multiple workers.",
     "type": "library",
     "license": "MIT",
     "version": "1.0.0",
@@ -15,11 +15,12 @@
             "email": "oscarcpr@gmail.com"
         }
     ],
+     "require": {},
     "require-dev": {
         "codeigniter4/devkit": "*",
         "phpunit/phpunit": "^9.0"
     },
 
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }

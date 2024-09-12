@@ -6,4 +6,4 @@ ___
 ___
 ### This will be a simple queue system for CodeIgniter 4. It will be able to handle multiple queues and multiple workers.
 
-## test
+## Methods
